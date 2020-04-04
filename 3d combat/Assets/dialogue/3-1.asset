@@ -321,7 +321,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u542C\u8BF4\u201C\u821F\u201D\u60F3\u8981\u5728\u5B87\u5B99\u91CC\u5EFA\u7ACB\u65B0\u7684\u79D1\u6280\u6587\u660E\uFF0C\u7ADF\u7136\u662F\u771F\u7684\u3002"
+        value: "\u201C\u821F\u201D\u60F3\u8981\u5728\u5730\u7403\u5916\u5EFA\u7ACB\u65B0\u7684\u79D1\u6280\u6587\u660E\u7684\u4F20\u95FB\u7ADF\u7136\u662F\u771F\u7684\u3002"
         type: 0
         typeString: 
       - title: Parenthetical
