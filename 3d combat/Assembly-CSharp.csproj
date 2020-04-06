@@ -287,7 +287,10 @@
     <Compile Include="Assets\Invector-3rdPersonController\Shooter\Scripts\Weapon\vShooterEquipment.cs" />
     <Compile Include="Assets\Invector-3rdPersonController\Shooter\Scripts\Weapon\vShooterWeapon.cs" />
     <Compile Include="Assets\Invector-3rdPersonController\Shooter\Scripts\Weapon\vShooterWeaponBase.cs" />
+    <Compile Include="Assets\Loader.cs" />
     <Compile Include="Assets\lostMemory\_SNAPS_PrototypingAssets\About\Scripts\Readme.cs" />
+    <Compile Include="Assets\OnTriggerEnterScene.cs" />
+    <Compile Include="Assets\OnTriggerLoadLevel.cs" />
     <Compile Include="Assets\prototype\AssetStoreOriginals\_SNAPS_PrototypingAssets\About\Scripts\Readme.cs" />
     <None Include="Assets\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
     <None Include="Assets\Invector-3rdPersonController\Melee Combat\README_Melee.txt" />
