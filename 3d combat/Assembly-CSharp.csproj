@@ -63,6 +63,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\cannonBall.cs" />
+    <Compile Include="Assets\EnactCannon.cs" />
     <Compile Include="Assets\Invector-3rdPersonController\Basic Locomotion\3D Models\Others\HealthItem\vAnimateUV.cs" />
     <Compile Include="Assets\Invector-3rdPersonController\Basic Locomotion\Scripts\Camera\CullingFadeControl\vCullingFadeControl.cs" />
     <Compile Include="Assets\Invector-3rdPersonController\Basic Locomotion\Scripts\Camera\vThirdPersonCamera.cs" />
@@ -291,6 +293,7 @@
     <Compile Include="Assets\lostMemory\_SNAPS_PrototypingAssets\About\Scripts\Readme.cs" />
     <Compile Include="Assets\OnTriggerEnterScene.cs" />
     <Compile Include="Assets\OnTriggerLoadLevel.cs" />
+    <Compile Include="Assets\projectCannonBall.cs" />
     <Compile Include="Assets\prototype\AssetStoreOriginals\_SNAPS_PrototypingAssets\About\Scripts\Readme.cs" />
     <None Include="Assets\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
     <None Include="Assets\Invector-3rdPersonController\Melee Combat\README_Melee.txt" />
